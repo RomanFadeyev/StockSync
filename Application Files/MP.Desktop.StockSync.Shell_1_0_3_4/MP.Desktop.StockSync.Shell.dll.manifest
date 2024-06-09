@@ -501,7 +501,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>XKf8xAqgR4pBPTksHC4MrZrIqUl3vhDGRKbezzWBfZg=</dsig:DigestValue>
+      <dsig:DigestValue>imHzFKgxwn9WHLKnvtV60RlPS/2j9REnmb5MfpLFQo4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\OC.Core.resources.dll" size="3584">

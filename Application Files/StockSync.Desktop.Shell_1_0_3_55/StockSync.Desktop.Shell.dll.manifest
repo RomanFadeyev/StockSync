@@ -465,7 +465,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TS8LJ7wexbCzcObHlHs15oDU8Bq3KcdcoDAi65dkkpI=</dsig:DigestValue>
+      <dsig:DigestValue>7J3vcDRFUmf6Wmv0gaANBHoGQZ7dTvgiCQ6qfszpHbk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
@@ -555,7 +555,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZzMccZMWtllvOk/BOyaxae2xIREc4W5l0Fpu+HCdILE=</dsig:DigestValue>
+      <dsig:DigestValue>IwF1CzSzsYfq/TzdgVYNk4NePFt4Q8qz8ryXfuti+DM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="StockSync.Desktop.Shell.exe" size="174592">

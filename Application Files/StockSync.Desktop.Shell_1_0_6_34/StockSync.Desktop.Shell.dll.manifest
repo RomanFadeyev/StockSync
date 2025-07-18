@@ -573,7 +573,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/+oQkIsC4Bnzqkkf46NyMNf+buVzgTbnBhCXFm3PI0Y=</dsig:DigestValue>
+      <dsig:DigestValue>DmLjWc/Dg7Ob5YcJJ4kpWYul9IDoJYReMWLjNjFsFII=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Telerik.Windows.Controls.resources.dll" size="6144">
